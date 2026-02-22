@@ -1,6 +1,6 @@
 ## Article 6, paragraphe §2 - Non concurrence
 
-![[ARTICLE_06_PARAGRAPHE_2_Non-concurrence.jpg]]
+![[img/ARTICLE_06_PARAGRAPHE_2_Non-concurrence.jpg]]
 Ainsi rédigée, travailler pour un prestataire d'une société concurrente entrerait dans le champ d'application de cette clause. D'autre part, on ne mentionne nulle part la fonction occupée chez le nouvel employeur ; ceci revient à interdire d'occuper n'importe quel poste même s'il n'entre pas réellement en concurrence. Enfin, interdire de travailler chez un concurrent revient à considérer par anticipation que nous allons rompre notre engagement de non divulgation des informations confidentielles de la société.
 
 > **Amendements demandés** : 
@@ -8,7 +8,7 @@ Ainsi rédigée, travailler pour un prestataire d'une société concurrente entr
 
 ## Article 8, paragraphe §8 - Exclusivité
 
-![[ARTICLE_08_PARAGRAPHE_8_Exclusivite.jpg]]
+![[img/ARTICLE_08_PARAGRAPHE_8_Exclusivite.jpg]]
 
 La clause d'exclusivité doit être précise. Cf. arrêt du 16 mai 2018 (C. cass., ch. soc., n°16-25.272), la Cour de cassation a sanctionné une clause « rédigée en termes généraux et imprécis ne spécifiant pas les contours de l’activité complémentaire qui serait envisagée par le salarié, activité bénévole ou lucrative, professionnelle ou de loisirs et qui ne permettaient pas dès lors de limiter son champ d’application ». 
 
@@ -16,19 +16,19 @@ La rédaction est ici précise mais la clause ne semble pas justifiée ni propor
 
 ## Article 8, paragraphe §12 - Confidentialité
 
-![[ARTICLE_08_PARAGRAPHE_12_Confidentialite.jpg]]
+![[img/ARTICLE_08_PARAGRAPHE_12_Confidentialite.jpg]]
 
 Pas de désaccord sur le fond mais l'oubli est possible. Une liste des ressources mises à disposition du salarié et devant être restituées à la société doit être remise en main propre ou par lettre recommandée A.R. au salarié au plus tard à la sortie de l'entreprise.
 
 ## Article 8, paragraphe §15 - Loyauté
 
-![[ARTICLE_08_PARAGRAPHE_15_Loyaute.jpg]]
+![[img/ARTICLE_08_PARAGRAPHE_15_Loyaute.jpg]]
 
 La clause semble confondre loyauté envers l'entreprise et probité. En soi, honnêteté et probité peuvent conduire à menacer les intérêts de la boîte. Cette clause n'est donc pas applicable. Que se passe-t-il si les intérêts de la société sont menacés par la probité ou l'honnêteté du salarié, ce qui pourrait être le cas d'un lanceur d'alerte ?
 
 ## Article 8, paragraphes §22 et §23
 
-![[ARTICLE_08_PARAGRAPHE_22-23_Usage-des-ressources.jpg]]
+![[img/ARTICLE_08_PARAGRAPHE_22-23_Usage-des-ressources.jpg]]
 
 **Paragraphe §23**
 Objectif à clarifier, les contours sont un peu flous. Doit-on comprendre que c'est un moyen de gratifier les salariés pour des inventions faites hors de leur fonction mais avec les moyens de la société ? Que sont, à titre d'exemple, les "*techniques spécifiques*" de l'entreprise ?
